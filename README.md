@@ -18,7 +18,11 @@
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
     
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=GoogleColab&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
+  
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+  ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
