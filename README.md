@@ -14,6 +14,8 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
   
+  ![Chrome Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
+  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
     
