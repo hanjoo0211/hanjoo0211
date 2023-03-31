@@ -10,6 +10,9 @@
   ![Java](https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white)
   
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
+  ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=white)
+  
   ![Flask](https://img.shields.io/badge/Flask-000001?style=flat&logo=Flask&logoColor=white)
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white)
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
