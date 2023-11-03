@@ -4,13 +4,13 @@
   
   ### 🔧 Tech Stack 🔨
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-  
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
   ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)  
 
   ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
