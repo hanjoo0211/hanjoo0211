@@ -4,8 +4,6 @@
 
   **Server Engineer @ banksalad** — 홈/자산(PFM) · 마이데이터
 
-  대규모 트래픽과 금융 데이터를 다루는 서버를 만듭니다.
-
   ### 🔧 Tech Stack 🔨
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
   ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logoColor=white)
