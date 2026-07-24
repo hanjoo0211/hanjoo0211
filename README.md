@@ -1,12 +1,18 @@
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hanjoo%20Kim&fontSize=60)
-  
+
+  **Server Engineer @ banksalad** — 홈/자산(PFM) · 마이데이터
+
   ### 🔧 Tech Stack 🔨
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
+  ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
+
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)
-  ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=Pytest&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 
   ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat&logo=WebRTC&logoColor=white)
