@@ -6,18 +6,11 @@
 
   대규모 트래픽과 금융 데이터를 다루는 서버를 만듭니다.
 
-  🏠 [hanjoo.kim](https://hanjoo.kim) · ✍️ [velog](https://velog.io/@hank0211) · 💼 [LinkedIn](https://www.linkedin.com/in/hanjoo0211)
-
   ### 🔧 Tech Stack 🔨
-
-  **주로 씁니다**
-
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white)
   ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)
-
-  **다뤄봤습니다**
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
